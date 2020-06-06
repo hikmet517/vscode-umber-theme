@@ -1,0 +1,31 @@
+{
+    "name": "umber-theme",
+    "displayName": "Umber Theme",
+    "description": "Brownish color theme for Visual Studio Code",
+    "publisher": "hikmet517",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Umber Theme",
+                "uiTheme": "vs",
+                "path": "./themes/umber-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/hikmet517/vscode-umber-theme/issues",
+        "email": "hikmet1517@gmail.com"
+    },
+    "homepage": "https://github.com/hikmet517/vscode-umber-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hikmet517/vscode-umber-theme"
+    }
+}
